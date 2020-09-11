@@ -39,6 +39,7 @@
     "chromedriver": "^85.0.1",
     "core-js": "^3.6.5",
     "eslint": "^7.8.1",
+    "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-jest": "^24.0.0",
     "eslint-plugin-prettier": "^3.1.4",
     "geckodriver": "^1.20.0",
@@ -57,8 +58,5 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://wombat-dressing-room.appspot.com"
-  },
-  "dependencies": {
-    "eslint-config-prettier": "^6.11.0"
   }
 }
