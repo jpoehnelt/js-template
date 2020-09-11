@@ -1,18 +1,18 @@
 {
-  "name": "@googlemaps/js-template",
+  "name": "@jpoehnelt/js-template",
   "version": "1.0.0",
   "description": "",
   "keywords": [
     "google",
     "maps"
   ],
-  "homepage": "https://github.com/googlemaps/js-template",
+  "homepage": "https://github.com/jpoehnelt/js-template",
   "bugs": {
-    "url": "https://github.com/googlemaps/js-template/issues"
+    "url": "https://github.com/jpoehnelt/js-template/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/googlemaps/js-template.git"
+    "url": "https://github.com/jpoehnelt/js-template.git"
   },
   "license": "Apache-2.0",
   "author": "Justin Poehnelt",
@@ -56,7 +56,7 @@
     "typescript": "^4.0.2"
   },
   "publishConfig": {
-    "access": "public",
+    "access": "restricted",
     "registry": "https://wombat-dressing-room.appspot.com"
   }
 }
