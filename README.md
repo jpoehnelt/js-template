@@ -22,9 +22,11 @@ or
 
 Alternativly you may add the umd package directly to the html document using the unpkg link.
 
-`<script src="https://unpkg.com/NPM_ORG/NPM_PACKAGE@1.0.0/dist/index.min.js"></script>`
+`<script src="https://unpkg.com/NPM_ORG/NPM_PACKAGE/dist/index.min.js"></script>`
 
 When adding via unpkg, the loader can be accessed at `TEMPLATE_PACKAGE_GLOBAL_NAME`.
+
+A version can be specified by using `https://unpkg.com/NPM_ORG/NPM_PACKAGE@VERSION/dist/...`.
 
 ## Documentation
 
